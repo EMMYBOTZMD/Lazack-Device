@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '255734980103', process.env.OWNER_NAME || 'lazack28', true],
+  [process.env.OWNER_NUMBER || '2347046311236', process.env.OWNER_NAME || 'lazack28', true],
   ['255779679079', 'lazack 28', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 v 2'
-global.botname = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿'
+global.author = process.env.OWNER_NAME || 'EMMYBOTZ-𝐌𝐃 v 2'
+global.botname = process.env.BOT_NAME || 'EMMYBOTZ-𝙈𝘿'
 global.oname = author
 global.bname = botname
 
@@ -25,8 +25,8 @@ global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/IIpL6gf6dcq
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || '𝐋𝐀𝐙𝐀𝐂𝐊-𝐌𝐃 🥵'
-global.stkpack = process.env.BOT_NAME || '𝙇𝘼𝙕𝘼𝘾𝙆-𝙈𝘿 🥵'
+global.packname = process.env.BOT_NAME || 'EMMYBOTZ-𝐌𝐃 🥵'
+global.stkpack = process.env.BOT_NAME || 'EMMYBOTZ-𝙈𝘿 🥵'
 global.stkowner = process.env.OWNER_NAME || '© lazack md v2'
 
 //Watermark
